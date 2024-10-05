@@ -36,7 +36,7 @@ The objective of this project is to help companies analyze the effectiveness of 
 
 
 ## Data
-This project uses [Clicked Ads Dataset.csv](./data/Clicked Ads Dataset.csv) data which can be accessed in folder data. The features in this dataset are Unnamed: 0, Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Male, Timestamp, Clicked on Ad, city, province, category.
+This project uses [Clicked Ads Dataset.csv](data/Clicked%20Ads%20Dataset.csv) data which can be accessed in folder data. The features in this dataset are Unnamed: 0, Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Male, Timestamp, Clicked on Ad, city, province, category.
 
 
 ## Exploratory Data Analysis (EDA)
