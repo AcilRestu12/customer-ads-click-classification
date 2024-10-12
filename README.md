@@ -1,4 +1,4 @@
-# customer-ads-click-classification
+# Customer Ads Click Classification
 Predict Customer Clicked Ads Classification by Using Machine Learning.
 
 
