@@ -83,7 +83,7 @@ Before training the model, split the data into train set and test set (size is 2
 | ------------- |:-------------:|
 | Logistic Regression (Without Normalization)               | 70.5%     |
 | Decision Tree (Without Normalization)                     | 93%       |
-| Random Forest (Without Normalization)                     | 935.5%    |
+| Random Forest (Without Normalization)                     | 95.5%     |
 | Logistic Regression (With Normalization)                  | 95.5%     |
 | Decision Tree (With Normalization)                        | 93%       |
 | Random Forest (With Normalization)                        | 95.5%     |
